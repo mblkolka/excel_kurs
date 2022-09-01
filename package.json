@@ -14,6 +14,7 @@
     "@babel/polyfill": "^7.12.1",
     "@babel/preset-env": "^7.18.10",
     "git": "^0.1.5",
+    "normalize.css": "^8.0.1",
     "webpack-dev-server": "^4.10.0"
   },
   "devDependencies": {
